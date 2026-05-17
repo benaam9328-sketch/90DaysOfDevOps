@@ -28,3 +28,29 @@ Topic 1- The core components of Linux (kernel, user space, init/systemd)
   Topic 3-What systemd does and why it matters
           Systemd is a system deamon , its a process which has pid 1 which is started by the bootloader its work is to start other processes.
           it matters a lot if its not there we have to manually start each and every process.
+
+Commands- 
+         free -h
+         df -Th
+         systemctl status docker
+         cat
+         vim
+         echo
+         cd
+         ls
+         ps -aux
+         systemctl stop docker
+         grep
+         vim
+         head -n10
+         tail -n5
+         ps -ef
+         wc -l
+         mkdir
+         touch
+         kill -9
+         rm -rf
+         cp origin dest
+         mv orgin dest
+         cd ..
+         
