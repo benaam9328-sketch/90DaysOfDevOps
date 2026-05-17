@@ -1,4 +1,5 @@
 ---------Day2 Notes--------------
+
 Topic 1- The core components of Linux (kernel, user space, init/systemd)
          Linux is an Operating System created by linus torvalds in 1991 and inspired from UNIX.Linux is Open source and secure used in 90% of productions servers.
          Linux has 3 core components that is -
