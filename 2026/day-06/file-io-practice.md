@@ -33,3 +33,6 @@ My name is Midoriya3
 [root@ip-172-31-28-123 ~]# cat notes2.txt
 My name is Midoriya2
 My name is Midoriya3
+------------------------------------------------------------
+tee ->create a file and you can add the content same time 
+-----------------------------------------------------------
