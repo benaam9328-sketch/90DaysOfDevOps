@@ -24,11 +24,19 @@ cat/etc/group
 tokyo->tokyo
 professor->proffesor
 berlin->berlin
+<img width="698" height="180" alt="image" src="https://github.com/user-attachments/assets/b3f888ff-a860-4eb7-866a-211ef3ea91b0" />
 
 ## Directories Created
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2cbb6c9c-237d-4eff-9ae5-408aeaff9a6e" />
+chown root:developers dev-projects
 ## Commands Used
-[Your commands here]
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c7f2912-9337-4af6-a3c2-742c9f64090d" />
+chmod to work on new files to be created as well 
+chmod g+s /dev-projects
 ## What I Learned
 [3 key points]
+add create user
+group
+how to inherit user and grp from drectory to files.
+
+--------------------done----------------------------
